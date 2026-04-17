@@ -1,18 +1,138 @@
-# 💫 About Me:
-A dedicated Computer Science and Engineering student specializing in MERN stack development, focused on building efficient, scalable, and visually polished web applications. Strong in DSA using C++, with a problem-solving mindset and a commitment to writing clean, modern, and maintainable code. Always exploring new technologies and improving my skills to deliver impactful digital experiences.<br><br>Language Proficiencies:<br>English<br>Hindi
+<h1 align="center">Hi, I'm Mohd Aaftab 👋</h1>
 
+<p align="center">
+  <b>Full Stack Software Engineer · MERN Stack · Cloud & AI Integration</b><br/>
+  <i>Building scalable, AI-powered web applications with clean, purposeful code.</i>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100069621810628) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aaftab._0fficial034) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaftab-670888333?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEnsTeXUYTT23GkGi26155g%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AaftabAnsa4211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdaaftab8630@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohdaaftab034&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohdaaftab034&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdaaftab034&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaftab-670888333">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohdaaftab8630@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohdaaftab034">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/AaftabAnsa4211">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mohdaaftab034&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **B.Tech Computer Science & Engineering** student at the **University of Lucknow** (CGPA: 8.2/10.0), passionate about building full-stack web applications that are efficient, scalable, and impactful.
+
+- 🔭 Specializing in the **MERN Stack** with a focus on RESTful API design and AI integration
+- ☁️ Experienced with cloud deployment on **AWS** using **Docker**
+- 🧠 Strong in **Data Structures & Algorithms** — 450+ problems solved across LeetCode, GFG & CodeStudio
+- 🛠 I believe in clean architecture, product-focused thinking, and writing code that lasts
+
+---
+
+## 🛠 Technical Skills
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Tools & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**CS Fundamentals**
+
+> Data Structures & Algorithms · Object-Oriented Programming · System Design · RESTful APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Resume Builder & ATS Checker
+> MERN Stack · Node.js · AI/NLP Integration · AWS · Docker
+
+An AI-driven resume analysis platform that computes ATS compatibility scores and provides targeted optimization suggestions.
+
+- Engineered an AI-powered analysis engine that **improved estimated interview callback rates by ~40%**
+- Architected a scalable RESTful API backend integrating third-party AI/NLP for keyword extraction and job description matching
+- Deployed on **AWS with Docker** containerization for production-grade availability
+
+[![Live](https://img.shields.io/badge/Live-View-brightgreen?style=flat-square)](https://your-live-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/mohdaaftab034)
+
+---
+
+### 📚 CodeSpheres — Coding Notes & Interview Prep Platform
+> MERN Stack · Tailwind CSS · AI Integration · MongoDB
+
+A centralized coding knowledge base with an AI doubt-solver and interactive roadmap visualizations.
+
+- Built an **AI doubt-solver** for DSA queries in natural language, reducing average research time by **60%**
+- Engineered a dynamic graph-based roadmap engine for structured interview prep across 450+ problem sets
+- Optimized MongoDB models for **sub-200ms response times** under concurrent multi-user load
+
+[![Live](https://img.shields.io/badge/Live-View-brightgreen?style=flat-square)](https://your-live-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/mohdaaftab034)
+
+---
+
+### 🛒 E-Commerce Ecosystem with AI Chatbot
+> MERN Stack · JWT Auth · RESTful APIs · AI Integration
+
+A multi-role e-commerce platform with role-based access control and an integrated AI chatbot.
+
+- Implemented **RBAC via JWT authentication** for secure Seller, Admin, and Buyer workflows
+- Integrated a real-time AI chatbot that reduced **product discovery time by 50%** using natural language queries
+- Designed a modular API layer decoupling the React front-end from business logic for independent scalability
+
+[![Live](https://img.shields.io/badge/Live-View-brightgreen?style=flat-square)](https://your-live-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/mohdaaftab034)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdaaftab034&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohdaaftab034&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdaaftab034&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+</p>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🧩 **450+ DSA problems** solved across LeetCode, GeeksforGeeks, and CodeStudio
+- 🎓 Completed coursework in **Full Stack Web Development** covering MERN Stack, RESTful API design, System Design, and AWS deployment
+- 📈 Maintaining a **CGPA of 8.2 / 10.0** in B.Tech CSE at University of Lucknow
+
+---
+
+## 📬 Get in Touch
+
+<p>
+  📧 <a href="mailto:mohdaaftab8630@gmail.com">mohdaaftab8630@gmail.com</a><br/>
+  💼 <a href="https://www.linkedin.com/in/aaftab-670888333">LinkedIn</a><br/>
+  🌐 <a href="https://github.com/mohdaaftab034">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Good code is not just working code — it's code that tells a clear story."</i>
+</p>
