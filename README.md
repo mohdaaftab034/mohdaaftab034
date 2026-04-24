@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaftab-ansari-670888333">
+  <a href="https://www.linkedin.com/in/aaftab-670888333">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohdaaftab8630@gmail.com">
