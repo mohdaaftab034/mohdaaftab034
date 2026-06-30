@@ -1,22 +1,22 @@
 <h1 align="center">Hi, I'm Mohd Aaftab 👋</h1>
 
 <p align="center">
-  <b>Full Stack Software Engineer · MERN Stack · Cloud & AI Integration</b><br/>
-  <i>Building scalable, AI-powered web applications with clean, purposeful code.</i>
+  <b>Full Stack Developer (MERN) · AI Integration · Cloud Deployment</b><br/>
+  <i>Building scalable, production-ready web applications with clean, purposeful code.</i>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aaftab-670888333">
+  <a href="https://linkedin.com/in/mohd-aaftab">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mohdaaftab8630@gmail.com">
+  <a href="mailto:aaftabansari034@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mohdaaftab034">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://x.com/AaftabAnsa4211">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  <a href="https://aaftabdev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -24,81 +24,97 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering** student at the **University of Lucknow** (CGPA: 8.2/10.0), passionate about building full-stack web applications that are efficient, scalable, and impactful.
+I'm a **B.Tech Computer Science & Engineering** student at the **University of Lucknow** (CGPA: 8.2/10.0), focused on building full-stack, AI-powered web applications across e-commerce, EdTech, and HealthTech.
 
-- 🔭 Specializing in the **MERN Stack** with a focus on RESTful API design and AI integration
-- ☁️ Experienced with cloud deployment on **AWS** using **Docker**
-- 🧠 Strong in **Data Structures & Algorithms** — 450+ problems solved across LeetCode, GFG & CodeStudio
-- 🛠 I believe in clean architecture, product-focused thinking, and writing code that lasts
+- 🔭 Building with the **MERN Stack** — REST APIs, JWT Auth, RBAC, and AI integration
+- ☁️ Deploying production apps on **AWS** with **Docker** containerization
+- 🧠 Solved **450+ DSA problems** across LeetCode, GeeksforGeeks & CodeStudio
+- 💼 Currently freelancing as a Full Stack Developer for **BRSS Foundation & Trust** (NGO)
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages & Frameworks**
+**Languages**
 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Tools & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**CS Fundamentals**
+**Core Concepts**
 
-> Data Structures & Algorithms · Object-Oriented Programming · System Design · RESTful APIs
+> REST APIs · JWT Authentication · RBAC · Dynamic Routing · AI Integration · SEO · Payment Gateway · System Design · DSA · OOP · DBMS · OS · Computer Networks
+
+---
+
+## 💼 Experience
+
+### Freelance Full Stack Developer — BRSS Foundation & Trust (NGO) · 2026
+`MERN` `Payment Gateway` `SEO` `Google Analytics` `Admin Panel`
+
+- Architected and deployed a production-ready NGO website with a custom Admin Panel, enabling non-technical staff to independently manage campaigns, events, and content
+- Engineered a secure online donation and payment gateway with scalable REST APIs and responsive, accessible frontend interfaces
+- Implemented end-to-end SEO strategies and integrated Google Analytics for real-time donor and campaign engagement tracking
+
+🔗 [brssfoundationandtrust.org](https://brssfoundationandtrust.org)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Resume Builder & ATS Checker
-> MERN Stack · Node.js · AI/NLP Integration · AWS · Docker
+### 📚 CodeSpheres — AI Coding Notes & Interview Prep Platform
+`MERN` `React Markdown` `Tailwind CSS` `AI Integration` `Rate-Limiting` `DB Indexing`
 
-An AI-driven resume analysis platform that computes ATS compatibility scores and provides targeted optimization suggestions.
+- Built a full-stack coding notes platform with React Markdown rendering, structured topic management, and a custom Admin Panel
+- Developed an AI-powered doubt solver for real-time DSA query resolution, with company-wise and chapter-wise roadmap navigation
+- Optimized MongoDB schemas with indexing and REST APIs for high-performance multi-user load; implemented JWT auth and RBAC
+- Shipped PDF export for notes and engineered rate-limiting for system stability under concurrent load
 
-- Engineered an AI-powered analysis engine that **improved estimated interview callback rates by ~40%**
-- Architected a scalable RESTful API backend integrating third-party AI/NLP for keyword extraction and job description matching
-- Deployed on **AWS with Docker** containerization for production-grade availability
-
-[![Live](https://img.shields.io/badge/Live-View-brightgreen?style=flat-square)](https://your-live-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/mohdaaftab034)
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://aaftabdev.vercel.app)
 
 ---
 
-### 📚 CodeSpheres — Coding Notes & Interview Prep Platform
-> MERN Stack · Tailwind CSS · AI Integration · MongoDB
+### 🛒 Zosh Bazaar — Multi-Vendor E-Commerce Platform
+`MERN` `REST APIs` `JWT` `RBAC` `Docker` `AI Chatbot`
 
-A centralized coding knowledge base with an AI doubt-solver and interactive roadmap visualizations.
+- Built a scalable multi-vendor platform with Seller Dashboard, Admin Panel, and complete Buyer workflows
+- Developed per-product AI chatbots for real-time contextual assistance, with modular decoupled REST APIs
+- Implemented JWT authentication with granular RBAC; containerized services via Docker for reliable deployment
+- Engineered a dynamic homepage and reusable product management system; optimized search and filter workflows
 
-- Built an **AI doubt-solver** for DSA queries in natural language, reducing average research time by **60%**
-- Engineered a dynamic graph-based roadmap engine for structured interview prep across 450+ problem sets
-- Optimized MongoDB models for **sub-200ms response times** under concurrent multi-user load
-
-[![Live](https://img.shields.io/badge/Live-View-brightgreen?style=flat-square)](https://your-live-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/mohdaaftab034)
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://aaftabdev.vercel.app)
 
 ---
 
-### 🛒 E-Commerce Ecosystem with AI Chatbot
-> MERN Stack · JWT Auth · RESTful APIs · AI Integration
+### 🩺 MediGuard AI — Fake Medicine Detection AI Agent
+`MERN` `Groq API` `AI Integration` `Web Scraping` `Geolocation`
 
-A multi-role e-commerce platform with role-based access control and an integrated AI chatbot.
+- Built an AI-powered fake medicine detection system during the **Hack4Good 24-hour hackathon** (team of 4)
+- Analyzed medicine images via Groq API for real-time verification and batch-number validation
+- Developed an automated CDSCO data scraper refreshing every 6 hours, with geolocation-based store recommendations (3km radius)
+- Designed a multi-role backend (public user, chemist, admin) with a three-layer AI analysis pipeline
 
-- Implemented **RBAC via JWT authentication** for secure Seller, Admin, and Buyer workflows
-- Integrated a real-time AI chatbot that reduced **product discovery time by 50%** using natural language queries
-- Designed a modular API layer decoupling the React front-end from business logic for independent scalability
-
-[![Live](https://img.shields.io/badge/Live-View-brightgreen?style=flat-square)](https://your-live-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/mohdaaftab034)
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://aaftabdev.vercel.app)
 
 ---
 
@@ -115,20 +131,28 @@ A multi-role e-commerce platform with role-based access control and an integrate
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Achievements
 
-- 🧩 **450+ DSA problems** solved across LeetCode, GeeksforGeeks, and CodeStudio
-- 🎓 Completed coursework in **Full Stack Web Development** covering MERN Stack, RESTful API design, System Design, and AWS deployment
-- 📈 Maintaining a **CGPA of 8.2 / 10.0** in B.Tech CSE at University of Lucknow
+- 🧩 Solved **450+ DSA problems** across LeetCode, GeeksforGeeks, and CodeStudio
+- 🏅 Participated in the **Hack4Good 24-hour hackathon** — built and shipped MediGuard AI within deadline
+- 🎓 Maintaining a **CGPA of 8.2 / 10.0** in B.Tech CSE at University of Lucknow
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science & Engineering**
+University of Lucknow · 2024 – 2028 · CGPA: 8.2/10
 
 ---
 
 ## 📬 Get in Touch
 
 <p>
-  📧 <a href="mailto:mohdaaftab8630@gmail.com">mohdaaftab8630@gmail.com</a><br/>
-  💼 <a href="https://www.linkedin.com/in/aaftab-670888333">LinkedIn</a><br/>
-  🌐 <a href="https://github.com/mohdaaftab034">GitHub</a>
+  📧 <a href="mailto:aaftabansari034@gmail.com">aaftabansari034@gmail.com</a><br/>
+  💼 <a href="https://linkedin.com/in/mohd-aaftab">LinkedIn</a><br/>
+  🌐 <a href="https://github.com/mohdaaftab034">GitHub</a><br/>
+  🔗 <a href="https://aaftabdev.vercel.app">Portfolio</a>
 </p>
 
 ---
