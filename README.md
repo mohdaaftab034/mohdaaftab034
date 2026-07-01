@@ -15,7 +15,7 @@
   <a href="https://github.com/mohdaaftab034">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://aaftabdev.vercel.app">
+  <a href="aaftabverse.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
